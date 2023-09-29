@@ -12,7 +12,7 @@
           "value" : "light"
         }
       ],
-      "filename" : "todo-app-logo 1.png",
+      "filename" : "todo-app-logo-1.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
@@ -39,7 +39,7 @@
           "value" : "light"
         }
       ],
-      "filename" : "todo-app-logo@2x 1.png",
+      "filename" : "todo-app-logo@2x-1.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
@@ -66,7 +66,7 @@
           "value" : "light"
         }
       ],
-      "filename" : "todo-app-logo@3x 1.png",
+      "filename" : "todo-app-logo@3x-1.png",
       "idiom" : "universal",
       "scale" : "3x"
     },
